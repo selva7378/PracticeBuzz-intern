@@ -5,6 +5,10 @@ A simple Android Note-Taking app built using Jetpack Compose. Users can add, vie
 📌 Features
 
 ✅ Add new notes using a Floating Action Button (FAB)
+
 ✅ Display notes in a LazyColumn using Card components
+
 ✅ Uses Jetpack Compose for UI
+
 ✅ Dialog box for adding new notes
+
