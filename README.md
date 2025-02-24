@@ -12,3 +12,10 @@
 
 ✅ Dialog box for adding new notes
 
+🛠 Tech Stack
+
+- Kotlin
+
+- Jetpack Compose
+
+- Material 3
