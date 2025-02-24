@@ -1,6 +1,6 @@
 📝 Note-Taking App
 
-A simple Android Note-Taking app built using Jetpack Compose. Users can add, view, and manage notes with a title and description.
+- A simple Android Note-Taking app built using Jetpack Compose. Users can add, view, and manage notes with a title and description.
 
 📌 Features
 
